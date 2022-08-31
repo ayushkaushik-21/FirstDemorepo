@@ -12,7 +12,13 @@ h1 {
   color: #ffffff;
   font: cursive;
 }
+
 h3 {
   font-weight: bold;
   color: blue;
+}
+
+h6{
+    color:  white;
+    font-size: 5rem;
 }
